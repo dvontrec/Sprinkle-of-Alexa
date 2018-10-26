@@ -1,0 +1,29 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "api starter",
+      "types": [],
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "GetRemoteDataIntent",
+          "slots": [],
+          "samples": [
+            "Open sprinkle of jeezy"
+          ]
+        }
+      ]
+    }
+  }
+}
